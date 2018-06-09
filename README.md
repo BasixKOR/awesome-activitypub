@@ -11,6 +11,7 @@
  * [Platforms](#platforms)
  * [Implementations](#implementations)
  * [Libraries](#libraries)
+ * [Bridges](#bridges)
 
 ## Official
  * [ActivityPub Website](https://activitypub.rocks/) - The official website of ActivityPub protocol.
@@ -42,3 +43,7 @@
 
 ## Libraries
  * [activity](https://github.com/go-fed/activity) - ActivityPub library for Golang.
+
+## Bridges
+ * [GNU Social ActivityPub Plugin](https://git.gnu.io/dansup/ActivityPub) - Plugin for GNU Social to add ActivityPub support.
+ * [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - A bridge between IndieWeb and ActivityPub, OStatus.
