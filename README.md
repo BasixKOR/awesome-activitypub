@@ -26,6 +26,11 @@
  * [Misskey](https://github.com/syuilo/misskey) - Microblogging service based on ActivityPub.
  * [PeerTube](https://github.com/Chocobozzz/PeerTube) - Video streaming platform with ActivityPub and WebTorrent.
  * [Funkwhale](https://funkwhale.audio/) - A modern, self-hosted, free and open-source music server
+ * [microblog.pub](https://microblog.pub/) - A self-hosted, single-user, ActivityPub powered microblog.
+ * [Plume](https://github.com/Plume-org/Plume) - Federated blogging engine with ActivityPub.
+ * [disbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub
+ * [Fontina](https://github.com/beta-phenylethylamine/fontina) - Photo sharing social network.
+ * [FediBlog](http://fedi.blog/) - Self-hosted, ActivityPub, Markdown, PHP, NoSQL, fully customisable blog engine.
  * [pixelfed](https://github.com/dansup/pixelfed) - Federated image sharing service based on ActivityPub. **[WIP]**
  * [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol based on ActivityPub for federating Git services. **[WIP]**
 
