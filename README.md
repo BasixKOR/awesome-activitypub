@@ -19,6 +19,9 @@
 
 ## Platforms
  * [Mastodon](https://joinmastodon.org/) - Microblogging service based on ActivityPub and OStatus protocol.
+ * [Pleroma](https://pleroma.social/) - Lightweight microblogging service based on ActivityPub and OStatus protocol.
+ * [Aardwolf](https://aardwolf.social/) - Macroblogging social network based on ActivityPub.
+ * [Hubzilla](https://project.hubzilla.org) - Macroblogging social network supports Zot, OStatus, diaspora, ActivityPub.
  * [Misskey](https://github.com/syuilo/misskey) - Microblogging service based on ActivityPub.
  * [PeerTube](https://github.com/Chocobozzz/PeerTube) - Video streaming platform with ActivityPub and WebTorrent.
  * [pixelfed](https://github.com/dansup/pixelfed) - Federated image sharing service based on ActivityPub. **[WIP]**
