@@ -31,7 +31,7 @@
  * [disbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub
  * [Fontina](https://github.com/beta-phenylethylamine/fontina) - Photo sharing social network.
  * [FediBlog](http://fedi.blog/) - Self-hosted, ActivityPub, Markdown, PHP, NoSQL, fully customisable blog engine.
- * [pixelfed](https://github.com/dansup/pixelfed) - Federated image sharing service based on ActivityPub. **[WIP]**
+ * [PixelFed](https://pixelfed.org/) - Federated image sharing service based on ActivityPub. **[WIP]**
  * [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol based on ActivityPub for federating Git services. **[WIP]**
 
 ## Implementations
@@ -40,5 +40,5 @@
  * [ActivityPub Example](https://github.com/tOkeshu/activitypub-example) - An exmaple of ActivityPub server implementation written in Python.
  * [microstatus](https://github.com/Arkanosis/microstatus) - Mastodon, GNUsocial compatible ActivityPub and OStatus server implementation.
 
- ## Libraries
+## Libraries
  * [activity](https://github.com/go-fed/activity) - ActivityPub library for Golang.
