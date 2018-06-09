@@ -24,6 +24,7 @@
  * [Hubzilla](https://project.hubzilla.org) - Macroblogging social network supports Zot, OStatus, diaspora, ActivityPub.
  * [Misskey](https://github.com/syuilo/misskey) - Microblogging service based on ActivityPub.
  * [PeerTube](https://github.com/Chocobozzz/PeerTube) - Video streaming platform with ActivityPub and WebTorrent.
+ * [Funkwhale](https://funkwhale.audio/) - A modern, self-hosted, free and open-source music server
  * [pixelfed](https://github.com/dansup/pixelfed) - Federated image sharing service based on ActivityPub. **[WIP]**
  * [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol based on ActivityPub for federating Git services. **[WIP]**
 
