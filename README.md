@@ -22,7 +22,7 @@
  * [Misskey](https://github.com/syuilo/misskey) - Microblogging service based on ActivityPub.
  * [PeerTube](https://github.com/Chocobozzz/PeerTube) - Video streaming platform with ActivityPub and WebTorrent.
  * [pixelfed](https://github.com/dansup/pixelfed) - Federated image sharing service based on ActivityPub. **[WIP]**
- * [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol based on ActivityPub for federating Git services.
+ * [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol based on ActivityPub for federating Git services. **[WIP]**
 
 ## Implementations
  * [Kroeg](https://github.com/puckipedia/Kroeg) - ActivityPub server implementation written in C#.
