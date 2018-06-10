@@ -34,9 +34,6 @@
  * [FediBlog](http://fedi.blog/) - Self-hosted, ActivityPub, Markdown, PHP, NoSQL, fully customisable blog engine.
  * [Acorde](https://github.com/polymerwitch/Acorde) - 
  * [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub
- * [PixelFed](https://pixelfed.org/) - Federated image sharing service based on ActivityPub. **[WIP]**
- * [Zinat](https://github.com/yabirgb/zinat) - Photo gallery social network. **[WIP]**
- * [GitPub](https://github.com/git-federation/gitpub) - a decentralized federation protocol based on ActivityPub for federating Git services. **[WIP]**
 
 ## Implementations
  * [Kroeg](https://github.com/puckipedia/Kroeg) - ActivityPub server implementation written in C#.
@@ -44,7 +41,6 @@
  * [ActivityPub Example](https://github.com/tOkeshu/activitypub-example) - An exmaple of ActivityPub server implementation written in Python.
  * [microstatus](https://github.com/Arkanosis/microstatus) - Mastodon, GNUsocial compatible ActivityPub and OStatus server implementation.
  * [dsblank/activitypub](https://github.com/dsblank/activitypub) - Prototyping a Python ActivityPub distributed server in Tornado.
- * [Eshu](https://github.com/kaniini/eshu) - ActivityPub server implementation. **[WIP]**
 
 ## Libraries
  * [activity](https://github.com/go-fed/activity) - ActivityPub library for Golang.
