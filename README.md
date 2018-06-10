@@ -32,7 +32,7 @@
  * [disbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub
  * [Fontina](https://github.com/beta-phenylethylamine/fontina) - Photo sharing social network.
  * [FediBlog](http://fedi.blog/) - Self-hosted, ActivityPub, Markdown, PHP, NoSQL, fully customisable blog engine.
- * [Acorde](https://github.com/polymerwitch/Acorde) - 
+ * [Acorde](https://github.com/polymerwitch/Acorde) - A federated social music platform.
  * [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub
 
 ## Implementations
