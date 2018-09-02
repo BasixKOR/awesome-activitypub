@@ -34,6 +34,7 @@
  * [FediBlog](http://fedi.blog/) - Self-hosted, ActivityPub, Markdown, PHP, NoSQL, fully customisable blog engine.
  * [Acorde](https://github.com/polymerwitch/Acorde) - A federated social music platform.
  * [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub
+ * [anancus](https://gitlab.com/tuxether/anancus) - Self-hosted and federated social link aggregation.
 
 ## Implementations
  * [Kroeg](https://github.com/puckipedia/Kroeg) - ActivityPub server implementation written in C#.
