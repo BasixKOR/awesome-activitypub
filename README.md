@@ -21,7 +21,6 @@
 ## Services
  * [Mastodon](https://joinmastodon.org/) - Microblogging service based on ActivityPub and OStatus protocol.
  * [Pleroma](https://pleroma.social/) - Lightweight microblogging service based on ActivityPub and OStatus protocol.
- * [Aardwolf](https://aardwolf.social/) - Macroblogging social network based on ActivityPub.
  * [Rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust.
  * [Hubzilla](https://project.hubzilla.org) - Macroblogging social network supports Zot, OStatus, diaspora, ActivityPub.
  * [Misskey](https://github.com/syuilo/misskey) - Microblogging service based on ActivityPub.
@@ -30,9 +29,6 @@
  * [microblog.pub](https://microblog.pub/) - A self-hosted, single-user, ActivityPub powered microblog.
  * [Plume](https://github.com/Plume-org/Plume) - Federated blogging engine with ActivityPub.
  * [disbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub
- * [Fontina](https://github.com/beta-phenylethylamine/fontina) - Photo sharing social network.
- * [FediBlog](http://fedi.blog/) - Self-hosted, ActivityPub, Markdown, PHP, NoSQL, fully customisable blog engine.
- * [Acorde](https://github.com/polymerwitch/Acorde) - A federated social music platform.
  * [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub
  * [anancus](https://gitlab.com/tuxether/anancus) - Self-hosted and federated social link aggregation.
 
