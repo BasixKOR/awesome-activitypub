@@ -18,7 +18,7 @@
    * [ActivityPub Test Suite](https://test.activitypub.rocks) - Make sure your service is compliance with the standard.
  * [W3C ActivityPub Standard](https://www.w3.org/TR/activitypub/) - The standard document of ActivityPub.
 
-## Platforms
+## Services
  * [Mastodon](https://joinmastodon.org/) - Microblogging service based on ActivityPub and OStatus protocol.
  * [Pleroma](https://pleroma.social/) - Lightweight microblogging service based on ActivityPub and OStatus protocol.
  * [Aardwolf](https://aardwolf.social/) - Macroblogging social network based on ActivityPub.
