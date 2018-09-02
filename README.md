@@ -14,11 +14,15 @@
  * [Bridges](#bridges)
 
 ## Official
+The official information about ActivityPub.
+
  * [ActivityPub Website](https://activitypub.rocks/) - The official website of ActivityPub protocol.
    * [ActivityPub Test Suite](https://test.activitypub.rocks) - Make sure your service is compliance with the standard.
  * [W3C ActivityPub Standard](https://www.w3.org/TR/activitypub/) - The standard document of ActivityPub.
 
 ## Services
+Services supporting ActivityPub federation.
+
  * [Dokieli](https://dokie.li/#introduction) - A clientside editor for decentralised article publishing, annotations and social interactions.
  * [ForgeFed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
  * [Funkwhale](https://funkwhale.audio/) - A modern, self-hosted, free and open-source music server
@@ -40,6 +44,8 @@
  * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
 
 ## Implementations
+Simple example of implementing ActivityPub.
+
  * [ActivityPub Example](https://github.com/tOkeshu/activitypub-example) - An exmaple of ActivityPub server implementation written in Python.
  * [Kroeg](https://github.com/puckipedia/Kroeg) - ActivityPub server implementation written in C#.
  * [dsblank/activitypub](https://github.com/dsblank/activitypub) - Prototyping a Python ActivityPub distributed server in Tornado.
@@ -47,9 +53,13 @@
  * [pylodon](https://github.com/rowanlupton/pylodon) - Flask-based ActivityPub server implementation.
 
 ## Libraries
+A little help for implementing ActivityPub.
+
  * [activity](https://github.com/go-fed/activity) - ActivityPub library for Golang.
 
 ## Bridges
+Connecting the ActivityPub federation with another federation.
+
  * [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - A bridge between IndieWeb and ActivityPub, OStatus.
  * [GNU Social ActivityPub Plugin](https://git.gnu.io/dansup/ActivityPub) - Plugin for GNU Social to add ActivityPub support.
  * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
