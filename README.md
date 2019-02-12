@@ -42,6 +42,7 @@ Services supporting ActivityPub federation.
 * [microblog.pub](https://microblog.pub/) - A self-hosted, single-user, ActivityPub powered microblog.
 * [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub.
 * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
+* [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
 
 ## Implementations
 Simple example of implementing ActivityPub.
@@ -56,6 +57,7 @@ Simple example of implementing ActivityPub.
 A little help for implementing ActivityPub.
 
 * [activity](https://github.com/go-fed/activity) - ActivityPub library for Golang.
+* [activitypub-php](https://github.com/pterotype-project/activitypub-php) - A library to turn any PHP project into a full ActivityPub implementation
 
 ## Bridges
 Connecting the ActivityPub federation with another federation.
