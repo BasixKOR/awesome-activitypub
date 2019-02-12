@@ -43,6 +43,8 @@ Services supporting ActivityPub federation.
 * [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub.
 * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
 * [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
+* [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
+* [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
 
 ## Implementations
 Simple example of implementing ActivityPub.
@@ -65,6 +67,7 @@ Connecting the ActivityPub federation with another federation.
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - A bridge between IndieWeb and ActivityPub, OStatus.
 * [GNU Social ActivityPub Plugin](https://git.gnu.io/dansup/ActivityPub) - Plugin for GNU Social to add ActivityPub support.
 * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
+* [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter. 
 
 ## License
 
