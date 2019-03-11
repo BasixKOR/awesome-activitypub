@@ -17,7 +17,6 @@
 The official information.
 
 * [ActivityPub Website](https://activitypub.rocks/) - The official website of ActivityPub protocol.
-  * [ActivityPub Test Suite](https://test.activitypub.rocks) - Make sure your service is compliance with the standard.
 * [W3C ActivityPub Standard](https://www.w3.org/TR/activitypub/) - The standard document of ActivityPub.
 
 ## Services
