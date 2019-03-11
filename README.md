@@ -4,7 +4,7 @@
 
 > Curated list of ActivityPub-based Projects!
 
-**[ActivityPub](https://www.w3.org/TR/activitypub/) is W3C standard, decentralized social networking protocol.** 
+[ActivityPub](https://www.w3.org/TR/activitypub/) is W3C standard, decentralized social networking protocol.
 
 ## Contents
 * [Official](#official)
@@ -14,7 +14,7 @@
 * [Bridges](#bridges)
 
 ## Official
-The official information about ActivityPub.
+The official information.
 
 * [ActivityPub Website](https://activitypub.rocks/) - The official website of ActivityPub protocol.
   * [ActivityPub Test Suite](https://test.activitypub.rocks) - Make sure your service is compliance with the standard.
@@ -53,13 +53,13 @@ Simple example of implementing ActivityPub.
 * [dsblank/activitypub](https://github.com/dsblank/activitypub) - Prototyping a Python ActivityPub distributed server in Tornado.
 * [microstatus](https://github.com/Arkanosis/microstatus) - Mastodon, GNUsocial compatible ActivityPub and OStatus server implementation.
 * [pylodon](https://github.com/rowanlupton/pylodon) - Flask-based ActivityPub server implementation.
-* [dariusk/express-activitypub](https://github.com/dariusk/express-activitypub) - A very simple reference implementation of an ActivityPub server using Express.js
+* [dariusk/express-activitypub](https://github.com/dariusk/express-activitypub) - A very simple reference implementation of an ActivityPub server using Express.js.
 
 ## Libraries
 A little help for implementing ActivityPub.
 
 * [activity](https://github.com/go-fed/activity) - ActivityPub library for Golang.
-* [activitypub-php](https://github.com/pterotype-project/activitypub-php) - A library to turn any PHP project into a full ActivityPub implementation
+* [activitypub-php](https://github.com/pterotype-project/activitypub-php) - A library to turn any PHP project into a full ActivityPub implementation.
 
 ## Bridges
 Connecting the ActivityPub federation with another federation.
