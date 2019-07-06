@@ -48,7 +48,7 @@ Services supporting ActivityPub federation.
 ## Implementations
 Simple example of implementing ActivityPub.
 
-* [ActivityPub Example](https://github.com/tOkeshu/activitypub-example) - An exmaple of ActivityPub server implementation written in Python.
+* [ActivityPub Example](https://github.com/tOkeshu/activitypub-example) - An example of ActivityPub server implementation written in Python.
 * [dsblank/activitypub](https://github.com/dsblank/activitypub) - Prototyping a Python ActivityPub distributed server in Tornado.
 * [microstatus](https://github.com/Arkanosis/microstatus) - Mastodon, GNUsocial compatible ActivityPub and OStatus server implementation.
 * [pylodon](https://github.com/rowanlupton/pylodon) - Flask-based ActivityPub server implementation.
