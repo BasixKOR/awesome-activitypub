@@ -50,7 +50,7 @@ Simple example of implementing ActivityPub.
 
 * [ActivityPub Example](https://github.com/tOkeshu/activitypub-example) - An example of ActivityPub server implementation written in Python.
 * [dsblank/activitypub](https://github.com/dsblank/activitypub) - Prototyping a Python ActivityPub distributed server in Tornado.
-* [microstatus](https://github.com/Arkanosis/microstatus) - Mastodon, GNUsocial compatible ActivityPub and OStatus server implementation.
+* *inactive* *no code* [microstatus](https://github.com/Arkanosis/microstatus) - Mastodon, GNUsocial compatible ActivityPub and OStatus server implementation.
 * [pylodon](https://github.com/rowanlupton/pylodon) - Flask-based ActivityPub server implementation.
 * [dariusk/express-activitypub](https://github.com/dariusk/express-activitypub) - A very simple reference implementation of an ActivityPub server using Express.js.
 * [CommonsPub](https://commonspub.org/) - A generic federated server, written in Elixir.
