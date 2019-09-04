@@ -37,7 +37,7 @@ Services supporting ActivityPub federation.
 * [Rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server in Rust.
 * [anancus](https://gitlab.com/tuxether/anancus) - Self-hosted and federated social link aggregation.
 * [anfora](https://github.com/anforaProject/anfora) - Self-hosted photo gallery social network.
-* [disbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub.
+* [distbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub.
 * [microblog.pub](https://microblog.pub/) - A self-hosted, single-user, ActivityPub powered microblog.
 * [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub.
 * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
