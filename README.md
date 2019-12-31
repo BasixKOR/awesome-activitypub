@@ -44,6 +44,8 @@ Services supporting ActivityPub federation.
 * [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
 * [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
+* [Socialhome](https://socialhome.network/) - A federated personal profile with social networking functionality. 
+
 
 ## Implementations
 Simple example of implementing ActivityPub.
