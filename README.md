@@ -39,7 +39,6 @@ Services supporting ActivityPub federation.
 * [anfora](https://github.com/anforaProject/anfora) - Self-hosted photo gallery social network.
 * [distbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub.
 * [microblog.pub](https://microblog.pub/) - A self-hosted, single-user, ActivityPub powered microblog.
-* [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub.
 * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
 * [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
 * [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
