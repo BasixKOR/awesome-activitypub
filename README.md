@@ -39,13 +39,12 @@ Services supporting ActivityPub federation.
 * [anfora](https://github.com/anforaProject/anfora) - Self-hosted photo gallery social network.
 * [distbin](https://distbin.com/about) - Distributed Pastebin, support ActivityPub and Micropub.
 * [microblog.pub](https://microblog.pub/) - A self-hosted, single-user, ActivityPub powered microblog.
-* [pump.io](http://pump.io/) - Social server with an ActivitySteams API, currently working on ActivityPub.
 * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
 * [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
 * [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
 * [Socialhome](https://socialhome.network/) - A federated personal profile with social networking functionality. 
-
+* [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 
 ## Implementations
 Simple example of implementing ActivityPub.
@@ -66,7 +65,7 @@ A little help for implementing ActivityPub.
 Connecting the ActivityPub federation with another federation.
 
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - A bridge between IndieWeb and ActivityPub, OStatus.
-* [GNU Social ActivityPub Plugin](https://git.gnu.io/dansup/ActivityPub) - Plugin for GNU Social to add ActivityPub support.
+* [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter. 
 
