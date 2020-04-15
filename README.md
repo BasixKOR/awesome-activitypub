@@ -44,6 +44,7 @@ Services supporting ActivityPub federation.
 * [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
+* [castling.club](https://castling.club/) - Chess over ActivityPub.
 
 ## Implementations
 Simple example of implementing ActivityPub.
