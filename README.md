@@ -12,6 +12,7 @@
 * [Implementations](#implementations)
 * [Libraries](#libraries)
 * [Bridges](#bridges)
+* [Community and Advocacy Groups](#community)
 
 ## Specifications
 Information for developers and implementers.
@@ -68,6 +69,11 @@ Connecting the ActivityPub federation with another federation.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter. 
+
+## Community and Advocacy Groups
+
+* [SocialHub](https://socialhub.activitypub.rocks/) - Forum for ActivityPub-related projects.
+* [Federated Networks Association](https://talk.feneas.org/) - Non-profit organization for the advocacy of website federation, and forum for related projects.
 
 ## License
 
