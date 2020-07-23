@@ -7,23 +7,23 @@
 [ActivityPub](https://www.w3.org/TR/activitypub/) is W3C standard, decentralized social networking protocol.
 
 ## Contents
-* [Official](#official)
+* [Specifications](#specifications)
 * [Services](#services)
 * [Implementations](#implementations)
 * [Libraries](#libraries)
 * [Bridges](#bridges)
 
-## Official
-The official information.
+## Specifications
+Information for developers and implementers.
 
 * [ActivityPub Website](https://activitypub.rocks/) - The official website of ActivityPub protocol.
 * [W3C ActivityPub Standard](https://www.w3.org/TR/activitypub/) - The standard document of ActivityPub.
+* [ForgeFed](https://forgefed.peers.community/) - Federation protocol for interoperable project management and source code hosting services (aka: forges).
 
 ## Services
 Services supporting ActivityPub federation.
 
 * [Dokieli](https://dokie.li/#introduction) - A clientside editor for decentralised article publishing, annotations and social interactions.
-* [ForgeFed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
 * [Funkwhale](https://funkwhale.audio/) - A modern, self-hosted, free and open-source music server.
 * [Hubzilla](https://project.hubzilla.org) - Macroblogging social network supports Zot, OStatus, diaspora, ActivityPub.
 * [Mastodon](https://joinmastodon.org/) - Microblogging service based on ActivityPub and OStatus protocol.
