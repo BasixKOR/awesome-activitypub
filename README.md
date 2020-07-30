@@ -74,6 +74,8 @@ Connecting the ActivityPub federation with another federation.
 
 * [SocialHub](https://socialhub.activitypub.rocks/) - Forum for ActivityPub-related projects.
 * [Federated Networks Association](https://talk.feneas.org/) - Non-profit organization for the advocacy of website federation, and forum for related projects.
+* [fediverse.party](https://fediverse.party/) - A quick look into Fediverse networks.
+* [We Distibute](https://wedistribute.org/) - a publication dedicated to Free Software, decentralized communication technologies, and sustainability.
 
 ## License
 
