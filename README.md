@@ -43,6 +43,7 @@ Services supporting ActivityPub federation.
 * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
 * [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
 * [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
+* [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
