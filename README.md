@@ -46,6 +46,7 @@ Services supporting ActivityPub federation.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
+* [gup.pe](https://gup.pe/) - Implementation of groups ([github repo](https://github.com/wmurphyrd/guppe))
 
 ## Implementations
 Simple example of implementing ActivityPub.
@@ -68,7 +69,8 @@ Connecting the ActivityPub federation with another federation.
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - A bridge between IndieWeb and ActivityPub, OStatus.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
-* [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter. 
+* [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter.
+* [Moa.party](https://moa.party/) - Automatic synchronization between Mastodon and Twitter
 
 ## Community and Advocacy Groups
 
