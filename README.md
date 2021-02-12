@@ -44,6 +44,7 @@ Services supporting ActivityPub federation.
 * [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
 * [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
+* [reel2bits](https://reel2bits.org/) - A Federated audio and podcasts sharing platform.
 * [Socialhome](https://socialhome.network/) - A federated personal profile with social networking functionality. 
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
