@@ -48,6 +48,7 @@ Services supporting ActivityPub federation.
 * [reel2bits](https://reel2bits.org/) - A Federated audio and podcasts sharing platform.
 * [Socialhome](https://socialhome.network/) - A federated personal profile with social networking functionality. 
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
+* [lotide](https://sr.ht/~vpzom/lotide/) - Federated forum / link aggregator using ActivityPub.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
 
 ## Implementations
