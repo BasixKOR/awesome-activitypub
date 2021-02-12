@@ -7,23 +7,24 @@
 [ActivityPub](https://www.w3.org/TR/activitypub/) is W3C standard, decentralized social networking protocol.
 
 ## Contents
-* [Official](#official)
+* [Specifications](#specifications)
 * [Services](#services)
 * [Implementations](#implementations)
 * [Libraries](#libraries)
 * [Bridges](#bridges)
+* [Community and Advocacy Groups](#community)
 
-## Official
-The official information.
+## Specifications
+Information for developers and implementers.
 
 * [ActivityPub Website](https://activitypub.rocks/) - The official website of ActivityPub protocol.
 * [W3C ActivityPub Standard](https://www.w3.org/TR/activitypub/) - The standard document of ActivityPub.
+* [ForgeFed](https://forgefed.peers.community/) - Federation protocol for interoperable project management and source code hosting services (aka: forges).
 
 ## Services
 Services supporting ActivityPub federation.
 
 * [Dokieli](https://dokie.li/#introduction) - A clientside editor for decentralised article publishing, annotations and social interactions.
-* [ForgeFed](https://github.com/forgefed/forgefed) - An extension to ActivityPub for web-based Git services federation.
 * [Funkwhale](https://funkwhale.audio/) - A modern, self-hosted, free and open-source music server.
 * [Hubzilla](https://project.hubzilla.org) - Macroblogging social network supports Zot, OStatus, diaspora, ActivityPub.
 * [Mastodon](https://joinmastodon.org/) - Microblogging service based on ActivityPub and OStatus protocol.
@@ -44,6 +45,7 @@ Services supporting ActivityPub federation.
 * [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
 * [reel2bits](https://reel2bits.org/) - A Federated audio and podcasts sharing platform.
+* [Socialhome](https://socialhome.network/) - A federated personal profile with social networking functionality. 
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
 
@@ -69,6 +71,13 @@ Connecting the ActivityPub federation with another federation.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter. 
+
+## Community and Advocacy Groups
+
+* [SocialHub](https://socialhub.activitypub.rocks/) - Forum for ActivityPub-related projects.
+* [Federated Networks Association](https://talk.feneas.org/) - Non-profit organization for the advocacy of website federation, and forum for related projects.
+* [fediverse.party](https://fediverse.party/) - A quick look into Fediverse networks.
+* [We Distibute](https://wedistribute.org/) - a publication dedicated to Free Software, decentralized communication technologies, and sustainability.
 
 ## License
 
