@@ -6,7 +6,7 @@
 
 [ActivityPub](https://www.w3.org/TR/activitypub/) is W3C standard, decentralized social networking protocol.
 
-Note: This list is outdated. Please see [watchlist for activitypub apps](https://git.feneas.org/feneas/fediverse/-/wikis/watchlist-for-activitypub-apps) for latest information.
+Note: This list is outdated. Please see [delightful fediverse apps](https://codeberg.org/fediverse/delightful-fediverse-apps) for latest information.
 
 ## Contents
 * [Specifications](#specifications)
