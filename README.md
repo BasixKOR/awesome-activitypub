@@ -51,6 +51,7 @@ Services supporting ActivityPub federation.
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
 * [lotide](https://sr.ht/~vpzom/lotide/) - Federated forum / link aggregator using ActivityPub.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
+* [GoToSocial](https://github.com/superseriousbusiness/gotosocial) - A ActivityPub social network server, written in Golang.
 
 ## Implementations
 Simple example of implementing ActivityPub.
