@@ -52,6 +52,8 @@ Services supporting ActivityPub federation.
 * [lotide](https://sr.ht/~vpzom/lotide/) - Federated forum / link aggregator using ActivityPub.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
 * [GoToSocial](https://github.com/superseriousbusiness/gotosocial) - A ActivityPub social network server, written in Golang.
+* [Gancio](https://gancio.org) - A federating event server focusing on content.
+* [Castopod](https://castopod.org) - Specialiced for podcasts.
 
 ## Implementations
 Simple example of implementing ActivityPub.
