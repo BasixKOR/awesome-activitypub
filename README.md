@@ -32,6 +32,7 @@ Services supporting ActivityPub federation.
 * [Mastodon](https://joinmastodon.org/) - Microblogging service based on ActivityPub and OStatus protocol.
 * [Misskey](https://github.com/syuilo/misskey) - Microblogging service based on ActivityPub.
 * [PeerTube](https://github.com/Chocobozzz/PeerTube) - Video streaming platform with ActivityPub and WebTorrent.
+* [BookWyrm](https://joinbookwyrm.com/) - A social network for tracking your reading and talking about books.
 * [PixelFed](https://pixelfed.org/) - Federated Image Sharing.
 * [Pleroma](https://pleroma.social/) - Lightweight microblogging service based on ActivityPub and OStatus protocol.
 * [Plume](https://github.com/Plume-org/Plume) - Federated blogging engine with ActivityPub.
