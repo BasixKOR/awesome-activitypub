@@ -56,6 +56,7 @@ Services supporting ActivityPub federation.
 * [GoToSocial](https://github.com/superseriousbusiness/gotosocial) - A ActivityPub social network server, written in Golang.
 * [Gancio](https://gancio.org) - A federating event server focusing on content.
 * [Castopod](https://castopod.org) - Specialiced for podcasts.
+* [Mbin](https://github.com/MbinOrg/mbin) - A federated content aggregator, content rating, dissussion and microblogging platform
 
 ## Implementations
 Simple example of implementing ActivityPub.
