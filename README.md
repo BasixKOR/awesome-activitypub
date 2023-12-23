@@ -57,6 +57,7 @@ Services supporting ActivityPub federation.
 * [Gancio](https://gancio.org) - A federating event server focusing on content.
 * [Castopod](https://castopod.org) - Specialiced for podcasts.
 * [Mbin](https://github.com/MbinOrg/mbin) - A federated content aggregator, content rating, dissussion and microblogging platform
+* [Postmarks](https://github.com/ckolderup/postmarks) - A single-user bookmarking server for the Fediverse.
 
 ## Implementations
 Simple example of implementing ActivityPub.
