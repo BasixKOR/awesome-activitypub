@@ -57,6 +57,7 @@ Services supporting ActivityPub federation.
 * [Gancio](https://gancio.org) - A federating event server focusing on content.
 * [Castopod](https://castopod.org) - Specialiced for podcasts.
 * [Mbin](https://github.com/MbinOrg/mbin) - A federated content aggregator, content rating, dissussion and microblogging platform
+* [Shuttlecraft](https://github.com/benbrown/shuttlecraft) - A single-user ActivityPub server.
 
 ## Implementations
 Simple example of implementing ActivityPub.
