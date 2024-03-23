@@ -73,6 +73,7 @@ A little help for implementing ActivityPub.
 
 * [activity](https://github.com/go-fed/activity) - ActivityPub library for Golang.
 * [activitypub-php](https://github.com/pterotype-project/activitypub-php) - A library to turn any PHP project into a full ActivityPub implementation.
+* [Fedify](https://fedify.dev/) - A fediverse server framework in Deno.
 
 ## Bridges
 Connecting the ActivityPub federation with another federation.
