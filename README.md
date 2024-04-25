@@ -50,6 +50,7 @@ Services supporting ActivityPub federation.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
 * [Socialhome](https://socialhome.network/) - A federated personal profile with social networking functionality. 
 * [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
+* [NodeBB](https://nodebb.org) - Self-hosted Node.js based community forum software.
 * [lotide](https://sr.ht/~vpzom/lotide/) - Federated forum / link aggregator using ActivityPub.
 * [castling.club](https://castling.club/) - Chess over ActivityPub.
 * [GoToSocial](https://github.com/superseriousbusiness/gotosocial) - A ActivityPub social network server, written in Golang.
