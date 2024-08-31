@@ -44,7 +44,6 @@ Services supporting ActivityPub federation.
 * [microblog.pub](https://microblog.pub/) - A self-hosted, single-user, ActivityPub powered microblog.
 * [write.as](https://write.as/about) - A distraction-free writing space with ActivityPub support.
 * [Nextcloud Social](https://github.com/nextcloud/social) - Federated social network application on Nextcloud.
-* [Pterotype](https://getpterotype.com/) - A WordPress plugin bringing your blog to the Fediverse.
 * [ActivityPub for WordPress](https://wordpress.org/plugins/activitypub/) - An ActivityPub plugin for WordPress.
 * [ActivityPub for Drupal](https://www.drupal.org/project/activitypub) - An ActivityPub module for the Drupal open-source digital experience platform.
 * [Mobilizon](https://joinmobilizon.org/en/) - A federated organization and mobilization platform.
@@ -72,7 +71,6 @@ Simple example of implementing ActivityPub.
 * [dsblank/activitypub](https://github.com/dsblank/activitypub) - Prototyping a Python ActivityPub distributed server in Tornado.
 * [pylodon](https://github.com/rowanlupton/pylodon) - Flask-based ActivityPub server implementation.
 * [dariusk/express-activitypub](https://github.com/dariusk/express-activitypub) - A very simple reference implementation of an ActivityPub server using Express.js.
-* [CommonsPub](https://commonspub.org/) - A generic federated server, written in Elixir.
 
 ## Libraries
 A little help for implementing ActivityPub.
@@ -90,7 +88,6 @@ Connecting the ActivityPub federation with another federation.
 ## Community and Advocacy Groups
 
 * [SocialHub](https://socialhub.activitypub.rocks/) - Forum for ActivityPub-related projects.
-* [Federated Networks Association](https://talk.feneas.org/) - Non-profit organization for the advocacy of website federation, and forum for related projects.
 * [fediverse.party](https://fediverse.party/) - A quick look into Fediverse networks.
 * [We Distibute](https://wedistribute.org/) - a publication dedicated to Free Software, decentralized communication technologies, and sustainability.
 
