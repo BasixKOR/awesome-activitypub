@@ -62,7 +62,8 @@ Services supporting ActivityPub federation.
 * [NeoDB](https://github.com/neodb-social/neodb) - an ActivityPub server tracking and review what you read/watch/listen/play.
 * [Firefish](https://firefish.dev/firefish/firefish) - a popular Misskey fork with many additional features
 * [Akkoma](https://akkoma.dev/AkkomaGang/akkoma/) - a popular Pleroma fork with many additional features
-* [Bonfire](https://github.com/bonfire-networks/bonfire-app) - a federated digital spaces, written in Elixir 
+* [Bonfire](https://github.com/bonfire-networks/bonfire-app) - a federated digital spaces, written in Elixir
+* [Hollo](https://hollo.social/) - A federated single-user microblogging software.
 
 ## Implementations
 Simple example of implementing ActivityPub.
