@@ -76,6 +76,7 @@ Simple example of implementing ActivityPub.
 A little help for implementing ActivityPub.
 
 * [Fedify](https://fedify.dev/) - An ActivityPub server framework in TypeScript.
+* [Go-ActivityPub](https://github.com/go-ap) - A suite of packages to help in creating ActivityPub applications using the Go programming language.
 
 ## Bridges
 Connecting the ActivityPub federation with another federation.
