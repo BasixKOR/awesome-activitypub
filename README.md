@@ -76,12 +76,14 @@ Simple example of implementing ActivityPub.
 A little help for implementing ActivityPub.
 
 * [Fedify](https://fedify.dev/) - An ActivityPub server framework in TypeScript.
+* [Go-ActivityPub](https://github.com/go-ap) - A suite of packages to help in creating ActivityPub applications using the Go programming language.
 
 ## Bridges
 Connecting the ActivityPub federation with another federation.
 
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - A bridge between IndieWeb and ActivityPub, OStatus.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
+* [Hatsu](https://hatsu.cli.rs/) - A self-hosted bridge that interacts with fediverse on behalf of your static site.
 * [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter. 
 
