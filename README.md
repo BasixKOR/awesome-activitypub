@@ -59,6 +59,11 @@ Services supporting ActivityPub federation.
 * [Mbin](https://github.com/MbinOrg/mbin) - A federated content aggregator, content rating, dissussion and microblogging platform
 * [Postmarks](https://github.com/ckolderup/postmarks) - A single-user bookmarking server for the Fediverse.
 * [Shuttlecraft](https://github.com/benbrown/shuttlecraft) - A single-user ActivityPub server.
+* [Takahē](https://github.com/jointakahe/takahe) - a multi-domain ActivityPub social network server, written in Python.
+* [NeoDB](https://github.com/neodb-social/neodb) - an ActivityPub server tracking and review what you read/watch/listen/play.
+* [Firefish](https://firefish.dev/firefish/firefish) - a popular Misskey fork with many additional features
+* [Akkoma](https://akkoma.dev/AkkomaGang/akkoma/) - a popular Pleroma fork with many additional features
+* [Bonfire](https://github.com/bonfire-networks/bonfire-app) - a federated digital spaces, written in Elixir 
 
 ## Implementations
 Simple example of implementing ActivityPub.
