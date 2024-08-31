@@ -84,7 +84,6 @@ Connecting the ActivityPub federation with another federation.
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - A bridge between IndieWeb and ActivityPub, OStatus.
 * [GNU social ActivityPub Plugin](https://notabug.org/diogo/gnu-social/src/nightly/plugins/ActivityPub) - Plugin for GNU social to add ActivityPub support.
 * [Hatsu](https://hatsu.cli.rs/) - A self-hosted bridge that interacts with fediverse on behalf of your static site.
-* [Osada](https://macgirvin.com/wiki/mike/Osada/Home) - A bridge between Zot protocol and ActivityPub, OStatus, Diaspora etc.
 * [RSS to ActivityPub](https://github.com/dariusk/rss-to-activitypub) - An RSS to ActivityPub converter. 
 
 ## Community and Advocacy Groups
