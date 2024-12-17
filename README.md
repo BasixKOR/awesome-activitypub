@@ -58,6 +58,8 @@ Services supporting ActivityPub federation.
 * [Mbin](https://github.com/MbinOrg/mbin) - A federated content aggregator, content rating, dissussion and microblogging platform
 * [Postmarks](https://github.com/ckolderup/postmarks) - A single-user bookmarking server for the Fediverse.
 * [Shuttlecraft](https://github.com/benbrown/shuttlecraft) - A single-user ActivityPub server.
+* [Social Inbox](https://github.com/hyphacoop/social.distributed.press) - Social Inbox API enables your website to receive followers and their comments from the Fediverse
+* [Social Reader](https://github.com/hyphacoop/reader.distributed.press) - A peer-to-peer, offline ActivityPub client for reading and following microblogs on the Fediverse.
 * [Takahē](https://github.com/jointakahe/takahe) - a multi-domain ActivityPub social network server, written in Python.
 * [NeoDB](https://github.com/neodb-social/neodb) - an ActivityPub server tracking and review what you read/watch/listen/play.
 * [Firefish](https://firefish.dev/firefish/firefish) - a popular Misskey fork with many additional features
